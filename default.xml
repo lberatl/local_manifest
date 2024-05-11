@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="main" fetch="https://https://github.com/lberatl" />
-  <remote name="LOS" fetch="https://github.com/LineageOS" />
+  <remote name="main" fetch="https://github.com/xiaomi-mt6785-dev" />
+  <remote name="POS" fetch="https://github.com/PixelOS-AOSP" />
 
   <!-- /* device specific */ -->
 
